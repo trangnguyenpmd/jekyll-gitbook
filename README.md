@@ -1,10 +1,9 @@
 ---
 layout: home
-title: Jekyll Gitbook Theme
+title: Summer School in Modeling Infectious Diseases and Health Economics
 permalink: /
 ---
 
-Make Jelly site have a GitBook look!
 
 ## Demo
 
