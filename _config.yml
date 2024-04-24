@@ -64,3 +64,7 @@ plugins:
   - jekyll-feed
   - jekyll-readme-index
   - jemoji
+
+tracker:
+  google_analytics: "<YOUR GOOGLE ANALYTICS KEY, e.g, UA-xxxxxx-x>"
+
