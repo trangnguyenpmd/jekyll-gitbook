@@ -4,7 +4,6 @@ author: trangngpmd
 date: 2024-04-25
 category: Jekyll
 layout: post
-cover: /assets/gitbook/images/Banner.jpg
 ---
 
 ## Course program
