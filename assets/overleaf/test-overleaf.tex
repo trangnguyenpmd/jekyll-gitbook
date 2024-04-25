@@ -1,0 +1,90 @@
+%--------------------
+% Packages
+% -------------------
+\documentclass{beamer}
+\addtobeamertemplate{navigation symbols}{}{%
+    \usebeamerfont{footline}%
+    \usebeamercolor[fg]{footline}%
+    \hspace{1em}%
+    \insertframenumber/\inserttotalframenumber%
+    }
+\setbeamercolor{footline}{fg=blue}
+\setbeamerfont{footline}{series=\bfseries}
+%\usetheme{Madrid}
+%\usecolortheme{beaver}
+\usepackage{bbm}
+%-----------------------
+% Title
+%-----------------------
+\title{COVID-19 situation in Europe}
+\author{Trang Nguyen}
+\institute{UHasselt}
+\date{13-03-2023}
+
+
+
+%-----------------------
+% Main document
+%-----------------------
+
+\begin{document}
+
+\frame{\titlepage}
+
+%----------------------------------------------------------------------
+\begin{frame}{General information}
+\begin{itemize}
+    \item 30 EU/EEA countries: Austria, Belgium, Bulgaria, Croatia, Cyprus, Czechia, Denmark, Estonia, Finland, France, Germany, Greece, Hungary, \alert{Iceland}, Ireland, Italy, Latvia, \alert{Liechtenstein}, Lithuania, Luxembourg, Malta, Netherlands, \alert{Norway}, Poland, Portugal, Romania, Slovakia, Slovenia, Spain, Sweden. 
+    \item Time frame:
+    \begin{itemize}
+        \item From week 10/2020 to week 51/2022 (147 weeks). 
+        \item From 02/03/2020 to 25/12/2022 (1029 days).
+    \end{itemize}
+    \item Data source: \url{https://ourworldindata.org/covid-cases} on 20/2/2023.
+    \item Data of variants from the ECDC website (\url{https://www.ecdc.europa.eu/en/publications-data/data-virus-variants-covid-19-eueea}) and is separately plotted by data sources GISAID or TESSy database.
+\end{itemize}
+\end{frame}
+
+
+%----------------------------------------------------------------------
+\begin{frame}{COVID-19 cases (W10/2020 - W51/2022)}
+    \begin{itemize}
+        \item Total cases: 183 378 661 cases
+    \end{itemize}
+\begin{center}
+\includegraphics[width=0.85\textwidth]{20230313_30 countries/COVID-19_cases/EEA_countries all_epicurve.png}
+\end{center}
+\end{frame}
+
+%----------------------------------------------------------------------
+\begin{frame}{COVID-19 cases summary}
+\includegraphics[width=0.52\textwidth]{20230313_30 countries/COVID-19_cases/total_cases.png}%
+\includegraphics[width=0.54\textwidth]{20230313_30 countries/COVID-19_cases/total_cases_per_million.png}
+\end{frame}
+
+%----------------------------------------------------------------------
+\begin{frame}{COVID-19 cases per million in each country}
+\begin{center}
+\includegraphics[width=0.9\textwidth]{20230313_30 countries/COVID-19_cases/cases_per_million_all.png}
+\end{center}    
+\end{frame}
+
+
+%----------------------------------------------------------------------
+\begin{frame}{COVID-19 cases in each country (map total cases)}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{20230313_30 countries/COVID-19_cases/map_total_cases.png}
+\end{center}    
+\end{frame}
+
+\begin{frame}{COVID-19 cases in each country (map cases per million)}
+\begin{center}
+\includegraphics[width=0.8\textwidth]{20230313_30 countries/COVID-19_cases/map_cases_per_million.png}
+\end{center}    
+\end{frame}
+
+
+
+
+
+\end{document}
