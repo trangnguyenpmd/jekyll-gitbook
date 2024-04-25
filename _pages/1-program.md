@@ -6,7 +6,7 @@ category: Jekyll
 layout: post
 ---
 
-## Course program
+## Course Schedule
 <div class="table-wrapper" markdown="block">
 
 |Date|Time|Content|
@@ -20,3 +20,13 @@ layout: post
 
 </div>
 
+More detailed program can be found [here][1].
+
+## Instructors
+
+
+
+
+
+
+[1]: 
