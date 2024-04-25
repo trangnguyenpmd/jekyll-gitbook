@@ -3,41 +3,28 @@ layout: home
 title: Summer School in Modeling Infectious Diseases and Health Economics
 permalink: /
 ---
+![Banner](https://github.com/trangnguyenpmd/jekyll-gitbook/assets/95937664/997826e4-c433-495d-a66a-69951eea947f)
 
 
-## Demo
+## Course overview
 
-Live demo on Github Pages: [https://sighingnow.github.io/jekyll-gitbook](https://sighingnow.github.io/jekyll-gitbook)
+Mathematical models are increasingly used to study infectious disease transmission, simulate reactive strategies and inform policy. In this course we focus on dynamic or time-dependent models representing the transmission of evolutionary systems. We start with basic concepts of transmission models for infectious diseases and continue with parameter estimation and social contact patterns. The level of model complexity increases from deterministic compartmental models up to stochastic individual-based models and we provide hands-on tutorials in R.
 
-[![Jekyll Themes](https://img.shields.io/badge/featured%20on-JekyllThemes-red.svg)](https://jekyll-themes.com/jekyll-gitbook/)
+Health interventions are assessed with respect to both effects and costs in health economic evaluations or health technology assessments. The objective is to optimize health outcomes for a constrained health budget. We elaborate in this course on cost-effectiveness and cost-benefit analyses for infectious disease interventions with a focus on vaccines. We demonstrate different types of uncertainty for economic evaluations and key aspects to evaluate preventive and curative medicine.
 
-## Why Jekyll with GitBook
+## Time and Venue
 
-GitBook is an amazing frontend style to present and organize contents (such as book chapters
-and blogs) on Web. The typical to deploy GitBook at [Github Pages][1]
-is building HTML files locally and then push to Github repository, usually to the `gh-pages`
-branch. It's quite annoying to repeat such workload and make it hard for people do version
-control via git for when there are generated HTML files to be staged in and out.
+The Summer School will be held between September 2 - 6, 2024 at University of Antwerp.
+[University of Antwerp City Campus
+Building K, Room 103
+Kleine Kauwenberg 14
+2000 Antwerpen][1]
 
-This theme takes style definition out of generated GitBook site and provided the template
-for Jekyll to rendering markdown documents to HTML, thus the whole site can be deployed
-to [Github Pages][1] without generating and uploading HTML bundle every time when there are
-changes to the original repo.
+The venue is located near Central Station (a 17 min walk). If you come to Antwerp by car, check the regulations about the [Low Emission Zone][2].
 
-## How to Get Started
+## Target group
 
-This theme can be used just as other [Jekyll themes][1] and support [remote theme][12],
-see [the official guide][13] as well.
-
-You can introduce this jekyll theme into your own site by either
-
-- [Fork][3] this repository and add your markdown posts to the `_posts` folder.
-- Use as a remote theme in your [`_config.yml`][14](just like what we do for this
-  site itself),
-
-```yaml
-remote_theme: sighingnow/jekyll-gitbook
-```
+Our 5-day course is suitable for those with a background in mathematics, statistics or econometrics. Health science professionals, (bio)statisticians, economists, mathematicians, etc. who want to expand their modelling toolbox and/or increase their understanding of cost-effectiveness analysis.
 
 ### Deploy Locally with Jekyll Serve
 
@@ -201,8 +188,8 @@ This work is open sourced under the Apache License, Version 2.0.
 
 Copyright 2019 Tao He.
 
-[1]: https://pages.github.com
-[2]: https://pages.github.com/themes
+[1]: https://www.google.com/maps/place/Gebouw+K+-+Aula+Rector+Dhanis+-+Stadscampus+UAntwerpen/@51.2242039,4.4122921,18z/data=!4m6!3m5!1s0x47c3f655da6faf2f:0xce1cf04d4576c733!8m2!3d51.2242745!4d4.4118254!16s%2Fg%2F11bwytt_mc?entry=ttu
+[2]: https://www.slimnaarantwerpen.be/en/LEZ
 [3]: https://github.com/sighingnow/jekyll-gitbook/fork
 [4]: https://github.com/allejo/jekyll-toc
 [5]: https://github.com/gitbook-plugins/gitbook-plugin-search-pro
