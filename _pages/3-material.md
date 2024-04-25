@@ -12,7 +12,7 @@ layout: post
 
 **Epidemic data**
 
-<embed src="https://trangnguyenpmd.github.io/simid-github/assets/pdf/EpidemicData.pdf" type="application/pdf" />
+<embed src="https://trangnguyenpmd.github.io/simid-github/assets/pdf/EpidemicData.pdf" type="application/pdf" width="500" height="500"/>
 
 
 ## Day 3
