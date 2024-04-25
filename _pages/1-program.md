@@ -4,7 +4,7 @@ author: trangngpmd
 date: 2024-04-25
 category: Jekyll
 layout: post
-cover: /assets/jekyll-gitbook/dinosaur.gif
+cover: /assets/gitbook/images/Banner.jpg
 ---
 
 ## Course Schedule
@@ -25,28 +25,27 @@ More detailed program can be found [here][1].
 
 ## Instructors
 
+<img src="/assets/gitbook/images/hens.jpeg" width="200" height="200">
+
 **Prof. Dr. Niel Hens**
 
 Niel Hens (MMath, MSc, PhD) is full Professor at Hasselt University and at the University of Antwerp where he holds the chair in evidence-based vaccinology. He is a biostatistician and mathematical epidemiologist with 15 years experience in human mathematical epidemiology.
 
-<img src="assets/gitbook/images/Quetelet.png" width="250" height="250">
+<img src="/assets/gitbook/images/Beutels.jpg" width="200" height="200">
 
 **Prof. Dr. Philippe Beutels**
 
-Founder and director of the  Centre for Health Economics Research & Modelling Infectious Diseases (CHERMID).
-Founder and co-director of the interuniversitary Simulation Models for Infectious Diseases (SIMID) consortium
+- Founder and director of the  Centre for Health Economics Research & Modelling Infectious Diseases (CHERMID).
+- Founder and co-director of the interuniversitary Simulation Models for Infectious Diseases (SIMID) consortium
 
 Main research interests:
 
-health economic evaluation
+- health economic evaluation
+- models of infectious diseases
+- economics of infectious disease prevention and control
+- criteria for health care prioritisation
 
-models of infectious diseases 
 
-economics of infectious disease prevention and control
-
-criteria for health care prioritisation
-
-<img src="assets/gitbook/images/Beutels.jpg" width="250" height="250">
 
 
 
