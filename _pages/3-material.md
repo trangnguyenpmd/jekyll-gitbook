@@ -9,7 +9,11 @@ layout: post
 ## Day 1 & 2
 
 **Introduction to mathematical models for infectious diseases**
-[embed]http://example.com/file.pdf[/embed]
+
+**Epidemic data**
+
+<embed src="https://trangnguyenpmd.github.io/assets/pdf/EpidemicData.pdf" type="application/pdf" />
+
 
 ## Day 3
 
