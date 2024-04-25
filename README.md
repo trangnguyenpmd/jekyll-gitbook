@@ -14,7 +14,7 @@ Health interventions are assessed with respect to both effects and costs in heal
 
 ## Time and Venue
 
-The Summer School will be held between September 2 - 6, 2024 at University of Antwerp.
+The Summer School will be held between **September 2 - 6, 2024** at University of Antwerp.
 
 [University of Antwerp City Campus, 
 Building K, Room 103, 
@@ -37,16 +37,15 @@ lander.willem@uantwerpen.be
 
 Campus Drie Eiken, D.S. 240, 2610 Wilrijk, Belgium
 
-![lander willem](assets/gitbook/images/Banner.jpg)
+<img src="assets/gitbook/images/willem.jpg" width="250" height="250">
 
 
 ## Our partners
 
-![ibiostat](assets/gitbook/images/ibiostat.png)
-![antwerp](assets/gitbook/images/antwerp.jpg)
-![dsi](assets/gitbook/images/dsi_logo.png)
-![quetelet](assets/gitbook/images/Quetelet society.jpg)
-
+<img src="assets/gitbook/images/ibiostat.png" width="400" height="100">
+<img src="assets/gitbook/images/antwerp.jpg" width="500" height="100">
+<img src="assets/gitbook/images/dsi.png" width="250" height="200">
+<img src="assets/gitbook/images/Quetelet.png" width="280" height="300">
 
 [1]: https://www.google.com/maps/place/Gebouw+K+-+Aula+Rector+Dhanis+-+Stadscampus+UAntwerpen/@51.2242039,4.4122921,18z/data=!4m6!3m5!1s0x47c3f655da6faf2f:0xce1cf04d4576c733!8m2!3d51.2242745!4d4.4118254!16s%2Fg%2F11bwytt_mc?entry=ttu
 [2]: https://www.slimnaarantwerpen.be/en/LEZ
