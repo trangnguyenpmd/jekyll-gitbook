@@ -4,6 +4,7 @@ author: trangngpmd
 date: 2024-04-25
 category: Jekyll
 layout: post
+cover: /assets/jekyll-gitbook/dinosaur.gif
 ---
 
 ## Course Schedule
@@ -28,7 +29,7 @@ More detailed program can be found [here][1].
 
 Niel Hens (MMath, MSc, PhD) is full Professor at Hasselt University and at the University of Antwerp where he holds the chair in evidence-based vaccinology. He is a biostatistician and mathematical epidemiologist with 15 years experience in human mathematical epidemiology.
 
-<img src="assets/gitbook/images/hens.jpeg" width="250" height="250">
+<img src="assets/gitbook/images/Quetelet.png" width="250" height="250">
 
 **Prof. Dr. Philippe Beutels**
 
