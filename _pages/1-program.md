@@ -1,7 +1,7 @@
 ---
-title: Page with cover image
-author: Tao He
-date: 2022-05-24
+title: Course program
+author: trangngpmd
+date: 2024-04-25
 category: Jekyll
 layout: post
 cover: /assets/gitbook/images/Banner.jpg
