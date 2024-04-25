@@ -15,20 +15,24 @@ Health interventions are assessed with respect to both effects and costs in heal
 ## Time and Venue
 
 The Summer School will be held between September 2 - 6, 2024 at University of Antwerp.
-[University of Antwerp City Campus
-Building K, Room 103
-Kleine Kauwenberg 14
+
+[University of Antwerp City Campus, 
+Building K, Room 103, 
+Kleine Kauwenberg 14, 
 2000 Antwerpen][1]
 
-The venue is located near Central Station (a 17 min walk). If you come to Antwerp by car, check the regulations about the [Low Emission Zone][2].
+The venue is located near Central Station (a 17 min walk). 
+If you come to Antwerp by car, check the regulations about the [Low Emission Zone][2].
 
 ## Target group
 
 Our 5-day course is suitable for those with a background in mathematics, statistics or econometrics. Health science professionals, (bio)statisticians, economists, mathematicians, etc. who want to expand their modelling toolbox and/or increase their understanding of cost-effectiveness analysis.
 
-### Deploy Locally with Jekyll Serve
+## Contact
 
-This theme can be ran locally using Ruby and Gemfiles.
+Lander Willem
+
+![lander willem](https://github.com/trangnguyenpmd/jekyll-gitbook/assets/95937664/411003c4-33ff-4a6a-a6a6-5717734ea4c1)
 
 [Testing your GitHub Pages site locally with Jekyll](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/testing-your-github-pages-site-locally-with-jekyll) - GitHub
 
